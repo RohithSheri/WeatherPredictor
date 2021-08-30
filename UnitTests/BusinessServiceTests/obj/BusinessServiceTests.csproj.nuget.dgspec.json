@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rsheri\\source\\repos\\WeatherPredictor\\BusinessServiceTests\\BusinessServiceTests.csproj": {}
+    "C:\\Users\\rsheri\\source\\repos\\WeatherPredictor\\UnitTests\\BusinessServiceTests\\BusinessServiceTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rsheri\\source\\repos\\WeatherPredictor\\BusinessServiceTests\\BusinessServiceTests.csproj": {
+    "C:\\Users\\rsheri\\source\\repos\\WeatherPredictor\\BusinessServices\\PredictionService\\WeatherPredictionService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rsheri\\source\\repos\\WeatherPredictor\\BusinessServiceTests\\BusinessServiceTests.csproj",
-        "projectName": "BusinessServiceTests",
-        "projectPath": "C:\\Users\\rsheri\\source\\repos\\WeatherPredictor\\BusinessServiceTests\\BusinessServiceTests.csproj",
+        "projectUniqueName": "C:\\Users\\rsheri\\source\\repos\\WeatherPredictor\\BusinessServices\\PredictionService\\WeatherPredictionService.csproj",
+        "projectName": "WeatherPredictionService",
+        "projectPath": "C:\\Users\\rsheri\\source\\repos\\WeatherPredictor\\BusinessServices\\PredictionService\\WeatherPredictionService.csproj",
         "packagesPath": "C:\\Users\\rsheri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rsheri\\source\\repos\\WeatherPredictor\\BusinessServiceTests\\obj\\",
+        "outputPath": "C:\\Users\\rsheri\\source\\repos\\WeatherPredictor\\BusinessServices\\PredictionService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
@@ -23,7 +23,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "netstandard2.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -31,14 +31,11 @@
           "https://pkgs.dev.azure.com/CoConstructLLC/Development/_packaging/OpenPlatform/nuget/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\rsheri\\source\\repos\\WeatherPredictor\\DSWeatherPrediction\\DSWeatherPrediction.csproj": {
-                "projectPath": "C:\\Users\\rsheri\\source\\repos\\WeatherPredictor\\DSWeatherPrediction\\DSWeatherPrediction.csproj"
-              },
-              "C:\\Users\\rsheri\\source\\repos\\WeatherPredictor\\PredictionService\\WeatherPredictionService.csproj": {
-                "projectPath": "C:\\Users\\rsheri\\source\\repos\\WeatherPredictor\\PredictionService\\WeatherPredictionService.csproj"
+              "C:\\Users\\rsheri\\source\\repos\\WeatherPredictor\\DataServices\\DSWeatherPrediction\\DSWeatherPrediction.csproj": {
+                "projectPath": "C:\\Users\\rsheri\\source\\repos\\WeatherPredictor\\DataServices\\DSWeatherPrediction\\DSWeatherPrediction.csproj"
               }
             }
           }
@@ -50,24 +47,14 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
           "dependencies": {
-            "Microsoft.NET.Test.Sdk": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[16.5.0, )"
-            },
-            "Moq": {
-              "target": "Package",
-              "version": "[4.16.1, )"
-            },
-            "NUnit": {
-              "target": "Package",
-              "version": "[3.12.0, )"
-            },
-            "NUnit3TestAdapter": {
-              "target": "Package",
-              "version": "[3.16.1, )"
+              "version": "[2.0.3, )",
+              "autoReferenced": true
             }
           },
           "imports": [
@@ -80,23 +67,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\rsheri\\source\\repos\\WeatherPredictor\\DSWeatherPrediction\\DSWeatherPrediction.csproj": {
+    "C:\\Users\\rsheri\\source\\repos\\WeatherPredictor\\DataServices\\DSWeatherPrediction\\DSWeatherPrediction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rsheri\\source\\repos\\WeatherPredictor\\DSWeatherPrediction\\DSWeatherPrediction.csproj",
+        "projectUniqueName": "C:\\Users\\rsheri\\source\\repos\\WeatherPredictor\\DataServices\\DSWeatherPrediction\\DSWeatherPrediction.csproj",
         "projectName": "DSWeatherPrediction",
-        "projectPath": "C:\\Users\\rsheri\\source\\repos\\WeatherPredictor\\DSWeatherPrediction\\DSWeatherPrediction.csproj",
+        "projectPath": "C:\\Users\\rsheri\\source\\repos\\WeatherPredictor\\DataServices\\DSWeatherPrediction\\DSWeatherPrediction.csproj",
         "packagesPath": "C:\\Users\\rsheri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rsheri\\source\\repos\\WeatherPredictor\\DSWeatherPrediction\\obj\\",
+        "outputPath": "C:\\Users\\rsheri\\source\\repos\\WeatherPredictor\\DataServices\\DSWeatherPrediction\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
@@ -152,14 +134,14 @@
         }
       }
     },
-    "C:\\Users\\rsheri\\source\\repos\\WeatherPredictor\\PredictionService\\WeatherPredictionService.csproj": {
+    "C:\\Users\\rsheri\\source\\repos\\WeatherPredictor\\UnitTests\\BusinessServiceTests\\BusinessServiceTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rsheri\\source\\repos\\WeatherPredictor\\PredictionService\\WeatherPredictionService.csproj",
-        "projectName": "WeatherPredictionService",
-        "projectPath": "C:\\Users\\rsheri\\source\\repos\\WeatherPredictor\\PredictionService\\WeatherPredictionService.csproj",
+        "projectUniqueName": "C:\\Users\\rsheri\\source\\repos\\WeatherPredictor\\UnitTests\\BusinessServiceTests\\BusinessServiceTests.csproj",
+        "projectName": "BusinessServiceTests",
+        "projectPath": "C:\\Users\\rsheri\\source\\repos\\WeatherPredictor\\UnitTests\\BusinessServiceTests\\BusinessServiceTests.csproj",
         "packagesPath": "C:\\Users\\rsheri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rsheri\\source\\repos\\WeatherPredictor\\PredictionService\\obj\\",
+        "outputPath": "C:\\Users\\rsheri\\source\\repos\\WeatherPredictor\\UnitTests\\BusinessServiceTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
@@ -171,7 +153,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netstandard2.0"
+          "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -179,11 +161,14 @@
           "https://pkgs.dev.azure.com/CoConstructLLC/Development/_packaging/OpenPlatform/nuget/v3/index.json": {}
         },
         "frameworks": {
-          "netstandard2.0": {
-            "targetAlias": "netstandard2.0",
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\rsheri\\source\\repos\\WeatherPredictor\\DSWeatherPrediction\\DSWeatherPrediction.csproj": {
-                "projectPath": "C:\\Users\\rsheri\\source\\repos\\WeatherPredictor\\DSWeatherPrediction\\DSWeatherPrediction.csproj"
+              "C:\\Users\\rsheri\\source\\repos\\WeatherPredictor\\BusinessServices\\PredictionService\\WeatherPredictionService.csproj": {
+                "projectPath": "C:\\Users\\rsheri\\source\\repos\\WeatherPredictor\\BusinessServices\\PredictionService\\WeatherPredictionService.csproj"
+              },
+              "C:\\Users\\rsheri\\source\\repos\\WeatherPredictor\\DataServices\\DSWeatherPrediction\\DSWeatherPrediction.csproj": {
+                "projectPath": "C:\\Users\\rsheri\\source\\repos\\WeatherPredictor\\DataServices\\DSWeatherPrediction\\DSWeatherPrediction.csproj"
               }
             }
           }
@@ -195,14 +180,24 @@
         }
       },
       "frameworks": {
-        "netstandard2.0": {
-          "targetAlias": "netstandard2.0",
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
-            "NETStandard.Library": {
-              "suppressParent": "All",
+            "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[2.0.3, )",
-              "autoReferenced": true
+              "version": "[16.5.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.16.1, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )"
             }
           },
           "imports": [
@@ -215,6 +210,11 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
         }
       }

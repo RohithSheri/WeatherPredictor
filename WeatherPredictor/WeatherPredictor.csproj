@@ -17,12 +17,12 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\DSWeatherPrediction\DSWeatherPrediction.csproj" />
-    <ProjectReference Include="..\PredictionService\WeatherPredictionService.csproj" />
+    <EditorConfigFiles Remove="C:\Users\rsheri\source\repos\WeatherPredictor\WeatherPredictor\.editorconfig" />
   </ItemGroup>
 
   <ItemGroup>
-    <EditorConfigFiles Remove="C:\Users\rsheri\source\repos\WeatherPredictor\WeatherPredictor\.editorconfig" />
+    <ProjectReference Include="..\DataServices\DSWeatherPrediction\DSWeatherPrediction.csproj" />
+    <ProjectReference Include="..\UnitTests\BusinessServiceTests\BusinessServiceTests.csproj" />
   </ItemGroup>
 
 </Project>

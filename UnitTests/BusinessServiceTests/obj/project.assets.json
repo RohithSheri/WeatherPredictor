@@ -4796,13 +4796,13 @@
     },
     "DSWeatherPrediction/1.0.0": {
       "type": "project",
-      "path": "../DSWeatherPrediction/DSWeatherPrediction.csproj",
-      "msbuildProject": "../DSWeatherPrediction/DSWeatherPrediction.csproj"
+      "path": "../../DataServices/DSWeatherPrediction/DSWeatherPrediction.csproj",
+      "msbuildProject": "../../DataServices/DSWeatherPrediction/DSWeatherPrediction.csproj"
     },
     "WeatherPredictionService/1.0.0": {
       "type": "project",
-      "path": "../PredictionService/WeatherPredictionService.csproj",
-      "msbuildProject": "../PredictionService/WeatherPredictionService.csproj"
+      "path": "../../BusinessServices/PredictionService/WeatherPredictionService.csproj",
+      "msbuildProject": "../../BusinessServices/PredictionService/WeatherPredictionService.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4823,11 +4823,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rsheri\\source\\repos\\WeatherPredictor\\BusinessServiceTests\\BusinessServiceTests.csproj",
+      "projectUniqueName": "C:\\Users\\rsheri\\source\\repos\\WeatherPredictor\\UnitTests\\BusinessServiceTests\\BusinessServiceTests.csproj",
       "projectName": "BusinessServiceTests",
-      "projectPath": "C:\\Users\\rsheri\\source\\repos\\WeatherPredictor\\BusinessServiceTests\\BusinessServiceTests.csproj",
+      "projectPath": "C:\\Users\\rsheri\\source\\repos\\WeatherPredictor\\UnitTests\\BusinessServiceTests\\BusinessServiceTests.csproj",
       "packagesPath": "C:\\Users\\rsheri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rsheri\\source\\repos\\WeatherPredictor\\BusinessServiceTests\\obj\\",
+      "outputPath": "C:\\Users\\rsheri\\source\\repos\\WeatherPredictor\\UnitTests\\BusinessServiceTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
@@ -4850,11 +4850,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\rsheri\\source\\repos\\WeatherPredictor\\DSWeatherPrediction\\DSWeatherPrediction.csproj": {
-              "projectPath": "C:\\Users\\rsheri\\source\\repos\\WeatherPredictor\\DSWeatherPrediction\\DSWeatherPrediction.csproj"
+            "C:\\Users\\rsheri\\source\\repos\\WeatherPredictor\\BusinessServices\\PredictionService\\WeatherPredictionService.csproj": {
+              "projectPath": "C:\\Users\\rsheri\\source\\repos\\WeatherPredictor\\BusinessServices\\PredictionService\\WeatherPredictionService.csproj"
             },
-            "C:\\Users\\rsheri\\source\\repos\\WeatherPredictor\\PredictionService\\WeatherPredictionService.csproj": {
-              "projectPath": "C:\\Users\\rsheri\\source\\repos\\WeatherPredictor\\PredictionService\\WeatherPredictionService.csproj"
+            "C:\\Users\\rsheri\\source\\repos\\WeatherPredictor\\DataServices\\DSWeatherPrediction\\DSWeatherPrediction.csproj": {
+              "projectPath": "C:\\Users\\rsheri\\source\\repos\\WeatherPredictor\\DataServices\\DSWeatherPrediction\\DSWeatherPrediction.csproj"
             }
           }
         }

@@ -9,13 +9,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BusinessServices", "Busines
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataServices", "DataServices", "{D68AACD0-4799-4685-A839-BB2F8DFDE9AC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WeatherPredictionService", "..\PredictionService\WeatherPredictionService.csproj", "{AC06F2E5-C9F3-46EB-B02C-CFAD30082670}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WeatherPredictionService", "..\BusinessServices\PredictionService\WeatherPredictionService.csproj", "{AC06F2E5-C9F3-46EB-B02C-CFAD30082670}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DSWeatherPrediction", "..\DSWeatherPrediction\DSWeatherPrediction.csproj", "{CC0AA322-3EF0-4964-89A7-63A83E58EF60}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DSWeatherPrediction", "..\DataServices\DSWeatherPrediction\DSWeatherPrediction.csproj", "{CC0AA322-3EF0-4964-89A7-63A83E58EF60}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UnitTests", "UnitTests", "{24D1E50E-6257-4BB2-B570-CE32E2011519}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessServiceTests", "..\BusinessServiceTests\BusinessServiceTests.csproj", "{779523BE-5ABE-4A61-9952-AAD4FC339977}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessServiceTests", "..\UnitTests\BusinessServiceTests\BusinessServiceTests.csproj", "{779523BE-5ABE-4A61-9952-AAD4FC339977}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

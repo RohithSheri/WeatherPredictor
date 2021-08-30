@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SudrNmxB5zqkdRzQ9ItK1ChdrymxbnvhxEjeox72IbYekaiwd2eHOljdO2SIMgM03IdwXqOcQJAtd+sSsjk3Qw==",
+  "dgSpecHash": "dEVN1Qpc+Gk01RVJmzd5Vt+IHNUIKX/CGQR4fz94aSLzRM+O9IOM6Ifg958dWdj/nPpBvZPUnJxBMsUlk9wADg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rsheri\\source\\repos\\WeatherPredictor\\BusinessServiceTests\\BusinessServiceTests.csproj",
+  "projectFilePath": "C:\\Users\\rsheri\\source\\repos\\WeatherPredictor\\UnitTests\\BusinessServiceTests\\BusinessServiceTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rsheri\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\rsheri\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",

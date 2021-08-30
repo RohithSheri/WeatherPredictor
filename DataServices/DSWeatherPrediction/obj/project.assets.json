@@ -186,11 +186,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rsheri\\source\\repos\\WeatherPredictor\\DSWeatherPrediction\\DSWeatherPrediction.csproj",
+      "projectUniqueName": "C:\\Users\\rsheri\\source\\repos\\WeatherPredictor\\DataServices\\DSWeatherPrediction\\DSWeatherPrediction.csproj",
       "projectName": "DSWeatherPrediction",
-      "projectPath": "C:\\Users\\rsheri\\source\\repos\\WeatherPredictor\\DSWeatherPrediction\\DSWeatherPrediction.csproj",
+      "projectPath": "C:\\Users\\rsheri\\source\\repos\\WeatherPredictor\\DataServices\\DSWeatherPrediction\\DSWeatherPrediction.csproj",
       "packagesPath": "C:\\Users\\rsheri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rsheri\\source\\repos\\WeatherPredictor\\DSWeatherPrediction\\obj\\",
+      "outputPath": "C:\\Users\\rsheri\\source\\repos\\WeatherPredictor\\DataServices\\DSWeatherPrediction\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
