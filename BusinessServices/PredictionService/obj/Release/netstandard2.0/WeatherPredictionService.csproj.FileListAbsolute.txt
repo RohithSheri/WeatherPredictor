@@ -1,0 +1,13 @@
+C:\Users\rsheri\source\repos\WeatherPredictor\BusinessServices\PredictionService\bin\Release\netstandard2.0\DataResources\RduWeatherDataDump.csv
+C:\Users\rsheri\source\repos\WeatherPredictor\BusinessServices\PredictionService\bin\Release\netstandard2.0\WeatherPredictionService.deps.json
+C:\Users\rsheri\source\repos\WeatherPredictor\BusinessServices\PredictionService\bin\Release\netstandard2.0\WeatherPredictionService.dll
+C:\Users\rsheri\source\repos\WeatherPredictor\BusinessServices\PredictionService\bin\Release\netstandard2.0\WeatherPredictionService.pdb
+C:\Users\rsheri\source\repos\WeatherPredictor\BusinessServices\PredictionService\bin\Release\netstandard2.0\DSWeatherPrediction.dll
+C:\Users\rsheri\source\repos\WeatherPredictor\BusinessServices\PredictionService\bin\Release\netstandard2.0\DSWeatherPrediction.pdb
+C:\Users\rsheri\source\repos\WeatherPredictor\BusinessServices\PredictionService\obj\Release\netstandard2.0\WeatherPredictionService.csproj.AssemblyReference.cache
+C:\Users\rsheri\source\repos\WeatherPredictor\BusinessServices\PredictionService\obj\Release\netstandard2.0\WeatherPredictionService.AssemblyInfoInputs.cache
+C:\Users\rsheri\source\repos\WeatherPredictor\BusinessServices\PredictionService\obj\Release\netstandard2.0\WeatherPredictionService.AssemblyInfo.cs
+C:\Users\rsheri\source\repos\WeatherPredictor\BusinessServices\PredictionService\obj\Release\netstandard2.0\WeatherPredictionService.csproj.CoreCompileInputs.cache
+C:\Users\rsheri\source\repos\WeatherPredictor\BusinessServices\PredictionService\obj\Release\netstandard2.0\WeatherPredictionService.csproj.CopyComplete
+C:\Users\rsheri\source\repos\WeatherPredictor\BusinessServices\PredictionService\obj\Release\netstandard2.0\WeatherPredictionService.dll
+C:\Users\rsheri\source\repos\WeatherPredictor\BusinessServices\PredictionService\obj\Release\netstandard2.0\WeatherPredictionService.pdb

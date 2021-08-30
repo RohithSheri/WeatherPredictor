@@ -1,0 +1,9 @@
+C:\Users\rsheri\source\repos\WeatherPredictor\DataServices\DSWeatherPrediction\bin\Release\netstandard2.0\DataResources\RduWeatherDataDump.csv
+C:\Users\rsheri\source\repos\WeatherPredictor\DataServices\DSWeatherPrediction\bin\Release\netstandard2.0\DSWeatherPrediction.deps.json
+C:\Users\rsheri\source\repos\WeatherPredictor\DataServices\DSWeatherPrediction\bin\Release\netstandard2.0\DSWeatherPrediction.dll
+C:\Users\rsheri\source\repos\WeatherPredictor\DataServices\DSWeatherPrediction\bin\Release\netstandard2.0\DSWeatherPrediction.pdb
+C:\Users\rsheri\source\repos\WeatherPredictor\DataServices\DSWeatherPrediction\obj\Release\netstandard2.0\DSWeatherPrediction.AssemblyInfoInputs.cache
+C:\Users\rsheri\source\repos\WeatherPredictor\DataServices\DSWeatherPrediction\obj\Release\netstandard2.0\DSWeatherPrediction.AssemblyInfo.cs
+C:\Users\rsheri\source\repos\WeatherPredictor\DataServices\DSWeatherPrediction\obj\Release\netstandard2.0\DSWeatherPrediction.csproj.CoreCompileInputs.cache
+C:\Users\rsheri\source\repos\WeatherPredictor\DataServices\DSWeatherPrediction\obj\Release\netstandard2.0\DSWeatherPrediction.dll
+C:\Users\rsheri\source\repos\WeatherPredictor\DataServices\DSWeatherPrediction\obj\Release\netstandard2.0\DSWeatherPrediction.pdb
